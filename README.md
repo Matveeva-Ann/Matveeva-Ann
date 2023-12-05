@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 <img align="right" src="https://github.com/Matveeva-Ann/Matveeva-Ann/blob/main/stock-vector-woman-sitting-bean-bag-chair-home-laptop-computer-remote-work.jpg?raw=true" alt="Anna's Image" width="300" >
 
-✨ I am a frontend software engineer! I recently completed a frontend developer course where I mastered Angular. However, realizing that there is still much to learn, I decided to take another course and am currently actively learning React. I'm presently working on the final project for this course.
+✨ I am a frontend developer! I recently completed a frontend developer course where I mastered Angular. However, realizing that there is still much to learn, I decided to take another course and am currently actively learning React. I'm presently working on the final project for this course.
 
 
 - 💻 My passion lies in crafting and enhancing web pages. I find particular joy in working on projects with unconventional, beautiful designs. I'm always eager to incorporate unique features, aiming to make websites as user-friendly as possible.
